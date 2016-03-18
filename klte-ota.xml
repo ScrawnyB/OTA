@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <klte>
-            <Filename>ResurrectionRemix-M-v5.6.5-20160315-klte.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.5-20160318-klte.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klte/ResurrectionRemix-M-v5.6.5-20160315-klte.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klte/ResurrectionRemix-M-v5.6.5-20160318-klte.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -27,11 +27,11 @@
     </Stable>
         <Stable>
         <klteusc>
-            <Filename>ResurrectionRemix-M-v5.6.5-20160315-klteusc.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.5-20160318-klteusc.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klteusc/ResurrectionRemix-M-v5.6.5-20160315-klteusc.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klteusc/ResurrectionRemix-M-v5.6.5-20160318-klteusc.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -52,11 +52,11 @@
     </Stable>
         <Stable>
         <kltespr>
-            <Filename>ResurrectionRemix-M-v5.6.5-20160315-kltespr.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.5-20160318-kltespr.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltespr/ResurrectionRemix-M-v5.6.5-20160315-kltespr.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltespr/ResurrectionRemix-M-v5.6.5-20160318-kltespr.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -77,11 +77,11 @@
     </Stable>
         <Stable>
         <kltedv>
-            <Filename>ResurrectionRemix-M-v5.6.5-20160315-kltedv.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.5-20160318-kltedv.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltedv/ResurrectionRemix-M-v5.6.5-20160315-kltedv.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltedv/ResurrectionRemix-M-v5.6.5-20160318-kltedv.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
