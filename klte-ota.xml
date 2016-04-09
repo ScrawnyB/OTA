@@ -2,102 +2,52 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <klte>
-            <Filename>ResurrectionRemix-M-v5.6.6-20160405-klte.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klte/ResurrectionRemix-M-v5.6.6-20160405-klte.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">http://android.buildhub.cf/ResurrectionRemix/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl
-            	id="slim_gapps"
-            	title="Slim GApps"
-            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
-           <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	</klte>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160409-klte.zip</Filename>
+            <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klte/ResurrectionRemix-M-v5.6.7-20160409-klte.zip</RomUrl>
+            <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">http://resurrectionremix.fandroid.net/klte/CHANGELOG.TXT</ChangelogUrl>
+            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/</BanksGappsUrl>
+            <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </klte>
     </Stable>
-        <Stable>
+    <Stable>
         <klteusc>
-            <Filename>ResurrectionRemix-M-v5.6.6-20160405-klteusc.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klteusc/ResurrectionRemix-M-v5.6.6-20160405-klteusc.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">http://android.buildhub.cf/ResurrectionRemix/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl
-            	id="slim_gapps"
-            	title="Slim GApps"
-            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
-           <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	</klteusc>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160409-klteusc.zip</Filename>
+            <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klteusc/ResurrectionRemix-M-v5.6.7-20160409-klteusc.zip</RomUrl>
+            <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">http://resurrectionremix.fandroid.net/klte/CHANGELOG.TXT</ChangelogUrl>
+            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/</BanksGappsUrl>
+            <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </klteusc>
     </Stable>
-        <Stable>
+    <Stable>
         <kltespr>
-            <Filename>ResurrectionRemix-M-v5.6.6-20160405-kltespr.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltespr/ResurrectionRemix-M-v5.6.6-20160405-kltespr.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">http://android.buildhub.cf/ResurrectionRemix/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl
-            	id="slim_gapps"
-            	title="Slim GApps"
-            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
-           <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	</kltespr>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160409-kltespr.zip</Filename>
+            <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltespr/ResurrectionRemix-M-v5.6.7-20160409-kltespr.zip</RomUrl>
+            <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">http://resurrectionremix.fandroid.net/klte/CHANGELOG.TXT</ChangelogUrl>
+            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/</BanksGappsUrl>
+            <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </kltespr>
     </Stable>
-        <Stable>
+    <Stable>
         <kltedv>
-            <Filename>ResurrectionRemix-M-v5.6.6-20160405-kltedv.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltedv/ResurrectionRemix-M-v5.6.6-20160405-kltedv.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">http://android.buildhub.cf/ResurrectionRemix/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl
-            	id="slim_gapps"
-            	title="Slim GApps"
-            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
-           <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	</kltedv>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160409-kltedv.zip</Filename>
+            <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltedv/ResurrectionRemix-M-v5.6.7-20160409-kltedv.zip</RomUrl>
+            <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">http://resurrectionremix.fandroid.net/klte/CHANGELOG.TXT</ChangelogUrl>
+            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/</BanksGappsUrl>
+            <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </kltedv>
+    </Stable>
+    <Stable>
+        <kltevzw>
+            <Filename>ResurrectionRemix-M-v5.6.7-20160409-kltevzw.zip</Filename>
+            <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltevzw/ResurrectionRemix-M-v5.6.7-20160409-kltevzw.zip</RomUrl>
+            <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">http://resurrectionremix.fandroid.net/klte/CHANGELOG.TXT</ChangelogUrl>
+            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/</BanksGappsUrl>
+            <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </kltevzw>
     </Stable>
 </SlimOTA>
