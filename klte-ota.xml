@@ -3,6 +3,7 @@
     <Stable>
         <klte>
             <Filename>ResurrectionRemix-M-v5.6.7-20160409-klte.zip</Filename>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.6.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klte/ResurrectionRemix-M-v5.6.7-20160409-klte.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">http://resurrectionremix.fandroid.net/klte/CHANGELOG.TXT</ChangelogUrl>
             <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
