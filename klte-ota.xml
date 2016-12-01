@@ -2,100 +2,82 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <klte>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161121-klte.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTE">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klte/ResurrectionRemix-M-v5.7.4-20161121-klte.zip</RomUrl>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161201-klte.zip</Filename>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTE">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klte/ResurrectionRemix-N-v5.8.0-20161201-klte.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </klte>
     </Stable>
     <Stable>
         <klteusc>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-klteusc.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEUSC">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klteusc/ResurrectionRemix-M-v5.7.4-20161121-klteusc.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </klteusc>
     </Stable>
     <Stable>
         <kltespr>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-kltespr.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTESPR">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltespr/ResurrectionRemix-M-v5.7.4-20161121-kltespr.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltespr>
     </Stable>
     <Stable>
         <kltedv>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-kltedv.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEDV">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltedv/ResurrectionRemix-M-v5.7.4-20161121-kltedv.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltedv>
     </Stable>
     <Stable>
         <kltevzw>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-kltevzw.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEVZW">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltevzw/ResurrectionRemix-M-v5.7.4-20161121-kltevzw.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltevzw>
     </Stable>
     <Stable>
         <klteduos>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-klteduos.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEDUOS">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/klteduos/ResurrectionRemix-M-v5.7.4-20161121-klteduos.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </klteduos>
     </Stable>    
     <Stable>
         <kltekdi>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-kltekdi.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEKDI">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltekdi/ResurrectionRemix-M-v5.7.4-20161121-kltekdi.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltekdi>
     </Stable>      
     <Stable>
         <kltechn>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-kltechn.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTECHN">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltechn/ResurrectionRemix-M-v5.7.4-20161121-kltechn.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltechn>
     </Stable>  
     <Stable>
         <kltechnduo>
             <Filename>ResurrectionRemix-M-v5.7.4-20161121-kltechnduo.zip</Filename>
-            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.7.x MM KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-ressurrection-remix-mm-t3275340</ThreadUrl>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR 5.8.x RR 5.8 Nougat KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
             <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTECHNDUO">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/kltechnduo/ResurrectionRemix-M-v5.7.4-20161121-kltechnduo.zip</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
-            <SlimGappsUrl id="slim_gapps" title="Slim GApps" description="Download latest Slim GApps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</SlimGappsUrl>
-            <BanksGappsUrl id="banks_gapps" title="BaNkS Dynamic GApps" description="Download latest BaNkS GApps">https://download.dirtyunicorns.com/gapps/Banks/</BanksGappsUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltechnduo>
     </Stable>          
