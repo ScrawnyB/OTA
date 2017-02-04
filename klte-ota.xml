@@ -2,83 +2,92 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <klte>
-            <Filename>RR-N-v5.8.0-20170117-klte-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-klte-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTE">https://sourceforge.net/projects/resurrectionremix/files/klte/RR-N-v5.8.0-20170117-klte-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTE">https://sourceforge.net/projects/resurrectionremix/files/klte/RR-N-v5.8.1-20170204-klte-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </klte>
     </Stable>
     <Stable>
         <klteusc>
-            <Filename>RR-N-v5.8.0-20170117-klteusc-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-klteusc-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEUSC">https://sourceforge.net/projects/resurrectionremix/files/klteusc/RR-N-v5.8.0-20170117-klteusc-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEUSC">https://sourceforge.net/projects/resurrectionremix/files/klteusc/RR-N-v5.8.1-20170204-klteusc-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </klteusc>
     </Stable>
     <Stable>
         <kltespr>
-            <Filename>RR-N-v5.8.0-20170117-kltespr-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-kltespr-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTESPR">https://sourceforge.net/projects/resurrectionremix/files/kltespr/RR-N-v5.8.0-20170117-kltespr-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTESPR">https://sourceforge.net/projects/resurrectionremix/files/kltespr/RR-N-v5.8.1-20170204-kltespr-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltespr>
     </Stable>
     <Stable>
         <kltedv>
-            <Filename>RR-N-v5.8.0-20170117-kltedv-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-kltedv-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEDV">https://sourceforge.net/projects/resurrectionremix/files/kltedv/RR-N-v5.8.0-20170117-kltedv-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEDV">https://sourceforge.net/projects/resurrectionremix/files/kltedv/RR-N-v5.8.1-20170204-kltedv-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltedv>
     </Stable>
     <Stable>
         <kltevzw>
-            <Filename>RR-N-v5.8.0-20170117-kltevzw-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-kltevzw-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEVZW">https://sourceforge.net/projects/resurrectionremix/files/kltevzw/RR-N-v5.8.0-20170117-kltevzw-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEVZW">https://sourceforge.net/projects/resurrectionremix/files/kltevzw/RR-N-v5.8.1-20170204-kltevzw-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltevzw>
     </Stable>
     <Stable>
         <klteduos>
-            <Filename>RR-N-v5.8.0-20170117-klteduos-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-klteduos-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEDUOS">https://sourceforge.net/projects/resurrectionremix/files/klteduos/RR-N-v5.8.0-20170117-klteduos-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEDUOS">https://sourceforge.net/projects/resurrectionremix/files/klteduos/RR-N-v5.8.1-20170204-klteduos-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </klteduos>
     </Stable>    
     <Stable>
         <kltekdi>
-            <Filename>RR-N-v5.8.0-20170117-kltekdi-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-kltekdi-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEKDI">https://sourceforge.net/projects/resurrectionremix/files/kltekdi/RR-N-v5.8.0-20170117-kltekdi-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTEKDI">https://sourceforge.net/projects/resurrectionremix/files/kltekdi/RR-N-v5.8.1-20170204-kltekdi-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltekdi>
     </Stable>      
     <Stable>
         <kltechn>
-            <Filename>RR-N-v5.8.0-20170117-kltechn-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-kltechn-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTECHN">https://sourceforge.net/projects/resurrectionremix/files/kltechn/RR-N-v5.8.0-20170117-kltechn-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTECHN">https://sourceforge.net/projects/resurrectionremix/files/kltechn/RR-N-v5.8.1-20170204-kltechn-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltechn>
     </Stable>  
     <Stable>
         <kltechnduo>
-            <Filename>RR-N-v5.8.0-20170117-kltechnduo-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170204-kltechnduo-Official.zip</Filename>
             <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
-            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTECHNDUO">https://sourceforge.net/projects/resurrectionremix/files/kltechnduo/RR-N-v5.8.0-20170117-kltechnduo-Official.zip/download</RomUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for KLTECHNDUO">https://sourceforge.net/projects/resurrectionremix/files/kltechnduo/RR-N-v5.8.1-20170204-kltechnduo-Official.zip/download</RomUrl>
             <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
             <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </kltechnduo>
-    </Stable>          
+    </Stable>      
+    <Stable>
+        <kltekor>
+            <Filename>RR-N-v5.8.1-20170204-kltekor-Official.zip</Filename>
+            <ThreadUrl id="thread" title="XDA Thread" description="View XDA thread for RR Nougat (5.8.x) KLTE builds">http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376</ThreadUrl>
+            <RomUrl id="rom" title="Rom" description="Download Latest ResurrectionRemix build for kltekor">https://sourceforge.net/projects/resurrectionremix/files/kltekor/RR-N-v5.8.1-20170204-kltekor-Official.zip/download</RomUrl>
+            <ChangelogUrl id="changelog" title="Changelog" description="View Detailed Build Changelog">https://raw.githubusercontent.com/ScrawnyB/OTA/master/CHANGELOG.TXT</ChangelogUrl>
+            <OpenGappsUrl id="open_gapps" title="OpenGApps" description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </kltekor>
+    </Stable>
 </SlimOTA>
