@@ -2,7 +2,363 @@
 RR Feature List: https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/Features.mkdn
 RR KLTE XDA Thread: http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376
 
-Below are some of the recent commits captured in the latest build (RR-N-v5.8.3-20170415-klte-Official).
+Below are some of the recent commits captured in the latest build (RR-N-v5.8.3-20170423-klte-Official).
+
+====================
+     04-23-2017
+====================
+
+
+   * frameworks/base/
+6c1934d052f8e2425690ac2b47a87386e16b8e38 Automatic translation import
+
+   * packages/apps/OmniSwitch/
+e6a68a9df5c5a1b59f5eef91269bdce7bde830af Automatic translation import
+
+   * packages/apps/Settings/
+ad6b0216315d1b8487f0189151a0996a5b1b4acd Automatic translation import
+e27dd961fab1784ffe319b0c9cc42e20a226bd13 Add Galaxy S7/edge maintainer (#761)
+
+   * packages/services/OmniJaws/
+342da5afcd893aa546a1518751686d7126f123e2 Automatic translation import
+
+   * vendor/samsung/
+21699d6928fc8ee6953c42d2ec82633ae71cd080 hlte-common: Regenerate makefiles to add hltetmo to guard
+e7fc8be25bb7f2b312fbe0ff4d8ff7873310adf7 chagallwifi: Copy bcmdhd firmware to another location
+0f1ac3dcde9913454f107a1a8a9943ab394ed208 d2: Cleanup blobs
+
+====================
+     04-22-2017
+====================
+
+
+   * external/stagefright-plugins/
+38460131570b5e60cb90271fdc5991438dd0a391 Revert "codecs: Disable AC3/EAC3"
+
+   * frameworks/base/
+4bbc37b55f7be0198caba6efd73357d1ddadcd56 Automatic translation import
+5dc497d1eb04cf22e1d2edece60fd02c670be33b Revert "Fix exploit where can hide the fact that a location was mocked"
+
+   * packages/apps/Dialer/
+30ec2b60da29d1caf5a22199dcc82e0f2cb349fd Automatic translation import
+
+   * packages/apps/ResurrectionOTA/
+6779a69973a02808179050afacbdba71f3392e8a Automatic translation import
+
+   * packages/apps/ResurrectionStats/
+20c446da3781c3444c71aa5efb93eb752ab91f13 Automatic translation import
+
+   * packages/apps/Settings/
+a27c59e4898092b2ede29c8aa1d64aa16f0754ba Automatic translation import
+d40aee26bbfcc50677ca84d4a2e5e3c2d872e9e1 Update Moto G4 Plus Maintainer (#760)
+
+   * packages/services/OmniJaws/
+288eeda79d27a9f3a97f4523b95901b47f544f5e Automatic translation import
+
+   * vendor/samsung/
+e196a42638b6cc6c898e72116e91004e454f8f96 hlte-common: Update Adreno/graphics blobs
+b5d4a9adcd03d8ddb46857ae383a53e41aeb6023 hlte-common: proprietary-files: Add missing WiFi calibration blobs
+d600cd63088589b1c03ac0ed493d6711facc1560 hlte{,tmo,-common}: Move common blobs to -common
+128279146cb3f97c230b9d41f274d6cbf372754a hltetmo: Update blobs
+6bbfb7f2a655189fb72dc8e29390c21cf8d76adb hlte{,-common}: Update blobs
+
+====================
+     04-21-2017
+====================
+
+
+   * frameworks/base/
+62992142f16548712eed73cfa6bbb81105046136 Automatic translation import
+
+   * hardware/qcom/audio-caf/msm8916/
+41cd40d057f371a27ec61bfff6600253adc862d4 Merge remote-tracking branch 'caf/LA.BR.1.2.9_rb1.15' into cm-14.1-caf-8916
+
+   * hardware/qcom/audio-caf/msm8994/
+ce39c3066cb2a4f2f776a39ed2856ad74fa56c27 Merge remote-tracking branch 'caf/LA.BF64.1.2.3_rb1.12' into cm-14.1-caf-8994
+
+   * hardware/qcom/fm/
+c9258aeeee1bc909f038e2cf24d801b4bbf8ff2a Automatic translation import
+
+   * hardware/qcom/media-caf/msm8994/
+5f3d105438b8013f90415a991d67822c2e227f3f Merge remote-tracking branch 'caf/LA.BF64.1.2.3_rb1.12' into cm-14.1-caf-8994
+
+   * hardware/samsung/
+1961bdbc43baba05ba4ebde37f6e772258fbdbbc Automatic translation import
+
+   * packages/apps/AudioFX/
+c22088cf6deec9f4f3be6c3ae700718c114c97d3 Automatic translation import
+
+   * packages/apps/Bluetooth/
+f567929733bd44ebb5225a29c55e715bb135b86d Automatic translation import
+
+   * packages/apps/CMBugReport/
+8a4fb413bd57ab6d5ac41b01db90380655a43c84 Automatic translation import
+
+   * packages/apps/Calendar/
+cabf3f55a339f256bd3fa975b8d544173e097885 Automatic translation import
+
+   * packages/apps/Camera2/
+19537ec3e81bfddc6b8bc38f748eb605632912f9 Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver/
+c5318ec43b9d524b0a09a62640dda0bf498fbd79 Automatic translation import
+
+   * packages/apps/Dialer/
+a4ce9ad2a65336f0a4c5d21702982ea8558c4f19 Automatic translation import
+
+   * packages/apps/Eleven/
+f4cab90ff7f92e66a73959b5779d7801b5410d87 Automatic translation import
+
+   * packages/apps/Email/
+7c7d90c33f5e5677a1f649f4b6b2bce99325fd2a Automatic translation import
+
+   * packages/apps/EmergencyInfo/
+985550ce5c84eea29e678992da1d05974e7c894a Automatic translation import
+
+   * packages/apps/FMRadio/
+f0d11a0508b76431a53062135bfbdcf9e643b5b5 Automatic translation import
+
+   * packages/apps/FlipFlap/
+52090f51a2e84848bff78f5f40952328db5705dd Automatic translation import
+
+   * packages/apps/Gallery2/
+fe9ee12252712102d2a77a94cdbc27382b9a460a Automatic translation import
+
+   * packages/apps/Gello/
+2cbe2dde0a8de90e278cddcf5f293b0f5f09d012 Automatic translation import
+
+   * packages/apps/Profiles/
+5f9b3b16e91288754cba8b1c1b30f925115d9225 Automatic translation import
+
+   * packages/apps/Recorder/
+9ab032674a242df536206c36fa2a012ef0612017 Automatic translation import
+
+   * packages/apps/Settings/
+22974ab37adedab2e332f71deb4dce608f488880 Fix screenshots delay default value
+c166531de4a48d95553a7dc224365ad86ae492e1 Automatic translation import
+71280d1db371b4c3adf1bff4d09f728094efa587 Add me as Sirius maintainer (#758)
+304dc7702b93599a476ca0deb71710cf1a4a70a0 Fix the build up !
+7b807dcab0a27b06aa0563633e9783a563ab1c7a Add Capricorn maintanier (#757)
+
+   * packages/apps/SetupWizard/
+e8e7a5475be0b932a8ef6b903dfd897caa037d5d Automatic translation import
+
+   * packages/apps/Snap/
+58fa0bd2f88e2f01c0916c36c725e89c7533ddf0 Automatic translation import
+
+   * packages/apps/Stk/
+726621f673d41b5c6be9d7601f24bd703ecaef7e Automatic translation import
+
+   * packages/apps/Terminal/
+b3167eda6444f03881a126eb841416efbf431aab Automatic translation import
+
+   * packages/apps/ThemeChooser/
+3fa04c4f76f09798f691da4d9b4aed19be7b24da Automatic translation import
+
+   * packages/apps/Trebuchet/
+aed0d6455894a2cb909a86c6483a8452131a359f Automatic translation import
+
+   * packages/apps/TvSettings/
+86a50559a8e2b3fe647d1fc9fb3b105e9afc8ddd Automatic translation import
+
+   * packages/apps/UnifiedEmail/
+fdb59c7399b112655a575595f4416d40a976e26e Automatic translation import
+
+   * packages/inputmethods/LatinIME/
+e443900aebba5286f77ad62c74834d0ab8115319 Automatic translation import
+
+   * packages/providers/ContactsProvider/
+315149634cae39524b722cfbf8da969e6407d083 Automatic translation import
+
+   * packages/providers/DataUsageProvider/
+16bd17effb7153f180f30eed0cbff435365b5750 Automatic translation import
+
+   * packages/providers/DownloadProvider/
+6b65be981c09d2cd5563393fe24908509b267310 Automatic translation import
+
+   * packages/providers/ThemesProvider/
+b8d4369f27c1d141bfe994b00fe6242b65bc12bf Automatic translation import
+
+   * packages/providers/WeatherProvider/
+187ce37f500e6b783f6a4a78808f69aa6442913a Automatic translation import
+
+   * packages/resources/devicesettings/
+dccf644aa786bdcd16bf11ab463abe2e3d657b62 Automatic translation import
+
+   * packages/services/CMAudioService/
+f9a30eb6a4d542e76515d90d45ee44c94b09d400 Automatic translation import
+
+   * packages/services/LiveLockScreenService/
+5d6b6ee89f44109b5dcf049e3db79a4e6be06fb5 Automatic translation import
+
+   * packages/services/OmniJaws/
+ccb0711207837e5b18a71cd92d9bfe7d5d01be38 Automatic translation import
+
+   * packages/services/ThemeManagerService/
+2f285e805fef59fba2d747b6b71d2cfcacee6cbe Automatic translation import
+
+   * packages/services/WeatherService/
+30495264d4917ec54e43d80c9165bbfdd4a04b77 Automatic translation import
+
+   * vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider/
+125dd919aaefb2b7ec7ad588b36d457c86915a93 Automatic translation import
+
+   * vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider/
+d0d6665e77e91e981d66a00951f32429299011c9 Automatic translation import
+
+====================
+     04-20-2017
+====================
+
+
+   * frameworks/base/
+d535a696c3292ef6b5a382cd5f2ec4780c4f5fc9 Automatic translation import
+f1e008ad1dd52220d9c5d9898c569b303c8fd273 SystemUI:Notification bar custom notification display problems
+d44c3f307639c1102d4fb98b23dcfd2b465cc10f BT: Update wait function in ManagerService to handle  BLE states
+e5e5b0922746d500c95f3e13e5f0a9f62317d0fd SystemUI: Fix QSTileHost exception
+8a6203859df7a545970a68b59602fd8288694030 SystemUI: [RJIL new function] AutoBrightness
+3f767d038031ed6bd77e739506fd2c0ba5d57b0e SystemUI: Fix SystemUI ANR
+
+   * hardware/qcom/display-caf/msm8994/
+434068f623dce3fc4d1f9b02dda736ead5cd2713 Fix duplicate copy file rules
+
+   * packages/apps/DUI/
+eaf848b78038487666bc51d44bf2ca2400cadba4 DUI: Basenavigationbar: Catch Slippery Exception
+
+   * packages/apps/Dialer/
+f86b3b41b92231b123abb4b0799976024651bfe5 Automatic translation import
+
+   * packages/apps/Settings/
+9f4c6318d951334b7ff50363f3ff0a6d5356135f Add Nougat Maintainer for LeEco Le Max2 (x2) (#755)
+1257948cf1b72ac8bfab768006509335d993a73d Settings: update string
+5cf9a3310376150588ce18ceed4698a8a2842883 Automatic translation import
+
+   * packages/services/OmniJaws/
+37897b2aa61eb9220a9ebdf080796289cf403b2d Automatic translation import
+
+====================
+     04-19-2017
+====================
+
+
+   * android/
+30d3069e727a47f5351cd3ae1a4ab4e49e6d63c0 crowdin: fix sync
+d1362da7b1c6d03be151e8a147cbaad392a5d56a [2/2] crowdin: add OmniJaws
+
+   * external/boringssl/
+84b70172b97741049c4d31358fe2a90ef46f7611 Make CRYPTO_is_NEON_capable aware of the buggy CPU.
+76090077010b8fe749c2763ee1a447e6d39c66b7 Don't set a default armcap state in dynamic armcap modes.
+733592a9495a00820ac927928df62d0a457867e4 Rewrite ARM feature detection.
+d50af316291f254d2e7c726647a4406b3b17c58e Remove CRYPTO_set_NEON_functional.
+
+   * packages/apps/Dialer/
+aa280a651c4528f6e55c3dfd44614e5a7950b378 Automatic translation import
+
+====================
+     04-18-2017
+====================
+
+
+   * frameworks/base/
+aa46183b5b5101ee1f6770b77ba8a4c5aef0c5d8 Automatic translation import
+3da5ccced06aaa5d8f50b02ace9a19f23cd55bde Improve Hw keys Tile
+9703f9a07363835ae2dbafd7df5056799c3c1d36 Add vpn and data saver to statusbar icon blacklist *fixed vpn toggle it is now instant
+a04a27f945577017e301adada49a79811fac5c6f Make Data/Wifi activity icon in statusbar optional [1/2]
+65916883030d212431269a60399034d25709a8fd Data activity icon in statusbar
+88921e111b0b9e825ea434bf94b2623167b10966 SystemUI: Add tile for enable/disable HW keys
+bc651feee7617ba7a68a370dbd879727b9566462 fix wrong algorithm in WifiPowerPerPacket()
+23130208f0719c8209211180bf7b394ad24e475a FATAL EXCEPTION IN SYSTEM PROCESS: android.ui
+877635283687c38933162f3657ee7e45c5d0395d Ticker:Set default color to White [1/2]
+286d50cc8282fd8d7c7187113627b1b6c6647ce6 Automatic translation import
+f8609ef2e29a3ad13fef5073e3a097b0cf8fce7c Fix missing lockscreen shortcut icons after reboot
+0d361756901390a8c9be99d552cf686d4c734be7 Themes: Allow volume slider and thumb to work with custom images.
+8355307c2b191c3d49c7079f392c778b45dfa916 Separate tile label color from icon drawable color
+ec99e84faa79d3dee3bd905a1ff622653ceeae6a Automatic translation import
+11576a8631405fbe1030792cf4e5636671a77919 Basestatusbar:Fix Headsup Not Working
+036a71d1b15cb1f209a6c81174da34194c2fdae7 Fix Another Illegal Argument Exception when Changing DPI
+0c31a309671d7ab53d1078cb0cec692eab88630e base:Optional weather info in expanded header [1/2]
+
+   * packages/apps/Dialer/
+867613342bf32d21dcaf7c99ce64f7396808f720 Automatic translation import
+
+   * packages/apps/OmniSwitch/
+eaf1058946fc5f5bf86e7eee495be895dd3485ba Automatic translation import
+
+   * packages/apps/ResurrectionStats/
+0f6820f255eecc898da83340348fe8f7b5115a7f Automatic translation import
+
+   * packages/apps/Settings/
+dea4c30d2bc662ad3fb02c88b18d543dc8f6bf69 add device vega (#754)
+c5ce86a1db74cd61cbfe198c0077fb9a863193aa Settings: Fix ugly whitespacing and build
+5e5d45ce86918534d5b1d3dfd94a670c3d438ab5 add maintainer for clark, flounder, manta, vs980, d2lte, and tenderloin (#753)
+0b8484923797c6e5e57dfa44eb34f6c3abdd5ee3 Automatic translation import
+e2bb742b8f7b6b89b2ea5b4bb19b63d7e4ed1dcb Fix 7.1.2 mismerge
+b6aa3ee9d603b4b46f32fd21ddb0aa69d3408cce Option to disable data & wifi indicators
+
+   * system/extras/
+b5332dfb0209553847a77fb9cc621f4f1392cbc3 Update verity_verifier from master branch
+
+   * vendor/samsung/
+2ea3bb0bd9213c2b5b7e033164e3b8f9c3ebe08c jf: Update time-service blobs
+
+====================
+     04-17-2017
+====================
+
+
+   * kernel/samsung/klte/
+3ac2e868dc08b0cd3404c68e8354f9e82664b712 signal: allow to send any siginfo to itself
+11abd3524407afdb5b3ba81960135720a9e158dd scsi: sg: check length passed to SG_NEXT_CMD_LEN
+62aa394e46a077cfaaec603487b01b3422e39829 BACKPORT: sg: relax 16 byte cdb restriction
+f0cf13dc469019ee045ea91411094c65cf1206ed BACKPORT: block: add blk_rq_set_block_pc()
+
+   * packages/apps/Dialer/
+a5b497f3b5c4f0c2f10bc5c4d661f0147c0cdbd5 Dialpad: option to show dialpad automatically (#1)
+
+   * packages/apps/Settings/
+cf618916ff27867cd93c7fcea72c56c419f22ccc Add HWkeys Settings as an activity
+08a6aa1f9a057694c7654ae8763f39f3695e3074 Ticker:Set default colors to white [2/2]
+433b9db41f309403b8dc88b5a05984127be2f03d Automatic translation import
+
+   * system/extras/
+196ed2f34dc823830f5d9524b8ce27a817b00971 verity: Include libcrypto_utils_static
+252fe23f4e5c4e1109e9ec60783061f714cf27af Revert "Revert "Switch to BoringSSL for crypto.""
+442b7846b9389e3787935df55e73c01c92e0631d Revert "Switch to BoringSSL for crypto."
+
+====================
+     04-16-2017
+====================
+
+
+   * android/
+34db8bf13c4da1379db354b7c2d4e00e2c3ce691 Revert "Sync infra-related    *s"
+
+   * hardware/libhardware_legacy/
+372a36ec781e891ccc9c629029132717d7f63025 wifi: Change USES_TI_MAC80211 to a BoardConfig flag
+
+   * kernel/samsung/klte/
+da36323a5e7b483d0882c94a3ca2b63848d006a5 sdcardfs: limit stacking depth
+d1dbb4605e8253aa2db539967626e656d8db5b25 BACKPORT: fs: limit filesystem stacking depth
+4276274040915bb17f1d692e43431d96e7719a67 udp: properly support MSG_PEEK with truncated buffers
+
+   * packages/apps/Dialer/
+7c18d1cf20cee95d742d6d2b3ba9102cf57de28c Automatic translation import
+
+   * packages/apps/OmniSwitch/
+6795838526532fda1383b55d8595d0bc9c3425e9 Automatic translation import
+
+   * packages/apps/ResurrectionStats/
+b66aff634bb0d9275a92d1567fe2559f8f31e0dd Automatic translation import
+
+   * packages/apps/Settings/
+9d1def78132d33df829fdb801e12772579ff6cb4 Automatic translation import
+8a346c215474561260fd4ba210f474c47a1ac349 Add Headsup Settings as an Activity
+cad32b82eda4f7f4a7336d272989693448c2f213 Update Z2 Tablet Maintainer
+1e7d35be3f3181719dee679db171671ad461fd75 Optional Expanded statusbar Weather info [2/2]
+ad9f195e835fe0a5d99a2b7b0635ebf35dbec19b Add Xperia Z Ultra Maintainer
+
+   * vendor/samsung/
+e77aa8130da2853cd2529e965a9c8d9e8e654b67 t0lte: Deunify vendor/lib and lib to follow stock
 
 ====================
      04-15-2017
@@ -38,8 +394,12 @@ f0cc961bb79a62695ccf7587be573692a42f1c68 Themes: Expose Keyguard affordance circ
 285e748c5cf5075560901b7e06677fda7abfac51 Automatic translation import
 2486fbe8d0fcf895d6bd82bce951b0203e6fee64 Automatic translation import
 
-   * lineage/wiki/
-246dc026bf979295cdefaa5dc6de917e9366d6ce devices: add lg l90 (w7)
+   * frameworks/opt/net/wifi/
+05213b97c34f35c0084d474d8f9d7aafd13317b3 Disqualify non-preferred band for both 2.4 and 5GHz
+c571e21d8510bb56d89ee4bba369999c18b4c748 Load the correct Wifi Saturation Threshold by Band
+
+   * hardware/qcom/audio/default/
+2627639540032e18f712fbf75b1cb617f671d86c msm8960: define HFP_ASM_RX_TX 24
 
    * packages/apps/ResurrectionStats/
 3833cd491a97cab24050fda97f73db04f2e31a30 Constants: update stats reporting/viewing URL   * http://resurrectionremix.sourceforge.net -> https://resurrectionremix.sourceforge.io
@@ -65,6 +425,9 @@ e863204be54c4c2ab0e600c4f7c56b1f35643f12 Fix required strings
 547ebfa32e861a0304b533b547f66c63d86faad0 Automatic translation import
 cebfd4028e027e9ba8e5bb9ae192e2e41b0aa22b Ticker: allow to show music track info on new track being played [2/2]
 31a9d2d701931182b639fedd2c87acb9adb3b665 Settings: Expose and add tint mode to custom icons
+
+   * system/bt/
+d17396c201e58e20a883d80303fae100b90a98c1 bt: fix build for non-BLE after the 7.1.2 merge
 
    * vendor/cm/
 c6c708cef8a776b047f457ff2edfc9fa2a823024 rr: clean up Makefiles
