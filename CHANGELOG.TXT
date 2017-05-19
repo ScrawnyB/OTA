@@ -2,7 +2,875 @@
 RR Feature List: https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/Features.mkdn
 RR KLTE XDA Thread: http://forum.xda-developers.com/galaxy-s5/unified-development/rom-resurrection-remix-n-klte-t3510376
 
-Below are some of the recent commits captured in the latest build (RR-N-v5.8.3-20170423-klte-Official).
+Below are some of the recent commits captured in the latest build (RR-N-v5.8.3-20170518-klte-Official).
+
+====================
+     05-18-2017
+====================
+
+
+   * packages/apps/DUI/
+bd50c31b7bd948bbda4e8cb3297487d1d1a9e06e Automatic translation import
+
+   * packages/apps/Settings/
+504b5aaf8f28047a1b1237efb2ffab92bd681b61 Automatic translation import
+
+====================
+     05-17-2017
+====================
+
+
+   * packages/apps/DUI/
+9a5c505d22360a3590ce70681ae9486dfd12f69d Automatic translation import
+
+   * packages/apps/Settings/
+a1d362b3264b973d1bb18f0be24f8dfa339976b9 Mi Mix (Lithium) maintainer change (#794)
+86705087ac35369e8470216b57ecc97f91837dd3 Automatic translation import
+3774bb8f29bf563a85d1cb0d0f1768c2dacc0b79 add Jiayu S3 maintainer (#793)
+
+====================
+     05-16-2017
+====================
+
+
+   * frameworks/base/
+7e1c6aff11444240b0b8880ae4675d104ba04ee7 Automatic translation import
+
+   * packages/apps/DUI/
+485508aa660b67cf9f48ad4222ac42a3b3df45dd Automatic translation import
+
+   * packages/apps/OmniSwitch/
+db39d9193b6c6ec40c176b15bc2d4d6188378c26 Automatic translation import
+
+   * packages/apps/Settings/
+aa8c68f0b939430859d86b5360a7e1df3973e7b5 Automatic translation import
+
+   * system/sepolicy/
+3797a6e687a762c60e5ae7bb225ffd565401726d Merge pull request #3 from ashoksoni/nougat
+a6888947c64766e1e527ebcc30b9d36148ea7ac7 sepolicy: Allow system_server to set theme_prop
+
+====================
+     05-15-2017
+====================
+
+
+   * frameworks/base/
+1aa51a6763bea09bb267868fe8c8b003c15c2b83 Automatic translation import
+
+   * kernel/samsung/klte/
+522bef82075d2331b5a772450d94cfeb49b4b2a4 kernel: Only expose su when daemon is running
+
+   * packages/apps/AudioFX/
+e696bf059f11a83e5a0b5690515fbd8808b1b4a4 AudioFX: Fix choppy preset transitions
+
+   * packages/apps/DUI/
+cbdbce31ead3e7d8febe9d36a4a28e7edda0d794 Automatic translation import
+
+   * packages/apps/Dialer/
+2027dd98fc9aa1f4904bc21488fc4d3d90236f1e Automatic translation import
+
+   * packages/apps/Settings/
+05e6b1e4316ffd6b4b79add4c48db1d54710f590 Add a new device Htc One S(Ville) to Device Maintaners list. (#791)
+152d9065a4b5636d150fba4c6f49837141455608 Automatic translation import
+
+   * system/keymaster/
+a1bbfc0d483b5ca1389c1b81c183f525f59e552d Fix bugs regarding KeyStore::isHardwareBacked always returning true.
+
+====================
+     05-14-2017
+====================
+
+
+   * frameworks/base/
+1e9483b012cb2f930c356cee39c2cc95891aa54f Automatic translation import
+
+   * hardware/qcom/audio-caf/msm8996/
+6e8e9c5470bd1444084a8f832821c12fdc115442 Merge tag 'LA.UM.5.5.r1-04600-8x96.0' into HEAD
+
+   * hardware/qcom/display-caf/msm8996/
+332f57a2b0bfab4caec5017698987a39147a965a Merge tag 'LA.UM.5.5.r1-04600-8x96.0' into HEAD
+
+   * hardware/qcom/media-caf/msm8996/
+87965a028b9255eb03728591fe24673aefc972f6 Merge tag 'LA.UM.5.5.r1-04600-8x96.0' into HEAD
+
+   * packages/apps/DUI/
+14d25eef2ef0db51f30fe11a0c8aaecf0529cda8 Automatic translation import
+
+   * packages/apps/Jelly/
+eab04da14d0ffee5bdd82591959b5d9f0f3a1008 Jelly: lint cleanup
+a8dcb762cca0b2fc1c164de2bd51df76628dd731 Jelly: Don't sign the app with a system certificate
+5e5fb971d46817d4683288904f63dd7e1e465ccd Jelly: Fix storage permission check
+c31549797b3496a34b90bcec95b850397a92fe62 Jelly: add Desktop mode toggle
+5859bc6e02e2ede3a263248f84d65de00554abc1 Jelly: Actually disable cookies
+fd7418eb7ae2ca3a1dbaded03db6132c476cf162 Jelly: Flush cookies when calling onStop()
+eb6375d9854a472f4f81f5676398ae7528499c24 Jelly: Don't make app persistent
+2d4853b64cdf5ae0052cffd4a3cabb6e082b23a9 Jelly: Add proguard rules
+d583aadfcff452f26628098e73cd1dc997b71d3c Jelly: Improve URL/search query handling
+21c6894cafd24ee873e69bf99163915c89f20fe6 Jelly: strings: Various pedantics
+
+   * packages/apps/Settings/
+565e2113b24365c48362477b23f1935dfdbad862 Add Scorpio & Lithium maintanier (#790)
+bff4df5b627cb3a218df616748fc59b480ab3866 Automatic translation import
+
+====================
+     05-13-2017
+====================
+
+
+   * device/samsung/klte-common/
+f523c22fa99cca41784b4469bf11a0aa104de50b klte-common: Kill Gello
+
+   * external/chromium-webview/
+b544e4829196736b92ea0a015546abfe4282b4e1 Update README
+
+   * frameworks/base/
+9d044c3cc35ae557d1498a1225214396a804ba87 Automatic translation import
+
+   * hardware/qcom/audio-caf/msm8996/
+23be04d0fa9a60d1d5f18d7f1af7510d29ba92e9 msm8996: ultrasound: Initial open source hal for Elliptic Ultrasound
+
+   * packages/apps/DUI/
+4647a5598067d56876af034fb3e236a18ecea26a Automatic translation import
+
+   * packages/apps/ResurrectionOTA/
+46097f6905a42a568b262afb1be2f8b5f8e3e42c Automatic translation import
+
+   * packages/apps/Settings/
+c36ecf5ced29541381273ff3946f42790d960878 Automatic translation import
+
+====================
+     05-12-2017
+====================
+
+
+   * frameworks/base/
+59afca83ac88beb987b691bf4a7fde714802e0ce fix build
+d3fff6c7dbe366aeffbf1537038b2d5ccf279177 incall vibration options [1/3] *allow setting vibration when call is connected *allow setting vibration when call is disconnected *allow setting vibration for call waiting *this works with google and aosp dialer :)
+6a61a8fefac8dde42e899e2a6c20779df510d7d0 frameworks/base: reduce the setTransactions
+4c50d5ee52142f38638a49b33853c36d1efc0962 hwui: skip draw empty frame
+9a1acd4a27e6a0e39af83c37000a436e1a67c244 Stop holding mProxyLock while downloading PAC script data.
+c065fddfe1faf0e95831d3336f3c868ca935e4c9 sensors: fix native crash when dynamic sensor is removed
+c5b1119168ab39fa6b3071e38109be818d2b8271 sensors: intern jstrings for memory savings
+b8ca031cb2fa88690502fb4f06b998195275597c NullPointerException: Attempt to invoke virtual method 'int android.os.Parcel.dataSize()' on a null object reference
+147dc3bfc84e97040780676cb48d48b22985d4cd Keyguard: disable logspilling debug
+9ba0ce50d453a68c944464c02afe75758925fcaa Fix carrier label not getting scaled properly
+33c5cabe4861697d179bd505705885f3149ac900 StatusBar: Catch OOM caused by third-party icons
+3d1c711d08c40f2dfc9f5739388e4efce9b50d0d The network event should be an asynchronous callback.
+ebf3cbee878a491f35be250ac102f4d4bfc78b0d wifi: catch UnsupportedOperationException for getMatchingWifiConfig
+b79fd00f763c93349828ad8c046c172727c9d394 SettingsLib: wifi: Fixed AccessPoint tracking for Passpoint networks
+492cf8634b9c3c98396cbb87a8c3e131fc050856 Destroy Allocation right away on exception
+2e58436a421f36f8310d5200c0febff188eca54b Destroy Allocation with ScriptIntrinsicLut
+4c1a6e90a2484e1e13468bfd5bb6b5187dadc33d Aapt2: Fix png leak
+e5e45713297a8553758b548eac41ef548083fd4e Deadlock in PackageInstallerSession
+8465fcfba9d4ccda8eff12eaaf72f3cc1a438207 Save "mState.restored" in onSaveInstanceState of FilesActivity
+c0d9ee270878030d658b980638c782a5ea3571c3 Avoid deadlock when installing app
+e7be2273efa49c3f55dc8f035d121fec016cde25 Resolve deadlock between ActivityManagerService and PowerManagerService
+d2a6ccc4851e2599ed3da32f602d8b58b6c5dafd OBEX : Handle Negative index Exception
+7492ebd44c757d1a127a46f39cb84c0dd1976a51 ExtShared build as priv-app
+8b797f8f1eaa4316b9fc00a44f5acfe53c0e5961 Fix dead lock in Tethering state machine
+3383e64664fa0ce9856abbe32d38e700c06c4a74 Skip ListPopupWindow position update if detached
+385f7d6fc241e3e72a4e382fc7ea84d36727ba53 Fix system server crash caused by CME in usage stats
+11ef661f6de92012bf0777d2fa21ba49e108b5ff Fix NPE while attempting to get length of null array in FileRotator
+3b26d60f53a164d1131b47d60121daf50cd33f61 Fix NPE in SettingsLib
+6c32d05510cb029341c328e045641606f1cfd42a Validate handler of wakelock option for flashlight.
+0b3a6ba8d0b51d63f28ea94651300d458547f908 Automatic translation import
+
+   * packages/apps/DUI/
+5d95ee11b98521b067d18e3c69a8a06088d1c4ce Improve MediaMonitor readability
+d450ac09256241de124acec710528c8d926b3442 DUI: Fix Smartbar back button hiding on lockscreen intents
+747629515b32438c4413938388d2d3b5e90e71b7 Automatic translation import
+
+   * packages/apps/Dialer/
+24f39efb6fdf711b2eb5a9f465c9e58e5ecc33d2 Merge branch 'nougat' of https://github.com/ResurrectionRemix/android_packages_apps_Dialer into nougat
+4ad8faa381d4ea04603ed2c7c573300f28a7fd90 Dialer:Remove redundant vibration options for InCallUI
+
+   * packages/apps/OmniSwitch/
+f143c733fdd8ac5150dbb92bcf44ac6c92a41969 Automatic translation import
+
+   * packages/apps/ResurrectionStats/
+ae935182ced3bcc45c3585cb5243724904303ac4 Automatic translation import
+
+   * packages/apps/Settings/
+debffd21199ffaad7e4953c4a99c3034194ebd36 Settings:Incall Vibration options [3/3]
+339bf9c03c40700a3172c3e93016f8721527b662 Automatic translation import
+
+   * packages/services/Telecomm/
+566782ebf34cc33d1ca5b59f6ed8533dbd07e1e6 Use double vibration on hang-up call
+14a17744af1e050ca39e1462c0bddf9f59364da4 incall vibration options [2/3] *allow setting vibration when call is connected *allow setting vibration when call is disconnected *allow setting vibration for call waiting *this works with google and aosp dialer :)
+
+====================
+     05-11-2017
+====================
+
+
+   * android/
+6bab65e90fad26d43a758d4366a57a7dfca80e6a crowdin: add DUI [1/2]
+
+   * packages/apps/Dialer/
+9670686e85bba34a3d693437ce9d203b69f0ec8e Automatic translation import
+
+   * packages/apps/OmniSwitch/
+7df4be8a18fdb94053fd6a73b117d60e7f7c4958 Automatic translation import
+
+   * packages/services/OmniJaws/
+18991979fcc17a052eb8342653f8f993d79ce280 Automatic translation import
+
+   * vendor/samsung/
+2cbd9bb0da0f41174ce3ca09e836f71c0876fef9 msm8976-common: Move sensors HAL out of common tree
+
+====================
+     05-10-2017
+====================
+
+
+   * frameworks/base/
+695bd5c117cb8ff6385ddf4eaa96a73cd21725e7 base: Allow to disable qs footer warnings [1/2]
+6fd71cfa12c749c80623385ce18b89cccd620ac7 telecom: Fix order of arguments when creating Details object
+299da89c85c3b0c953c2578c6ae4542a2123a871 NetworkTraffic: Dont show wrong values when connected to VPN
+7d8a9137381a0cad1e9bfba5c970403ea9136b7e Automatic translation import
+
+   * hardware/qcom/display/
+03afd10144aa8d3e08ec6738643ce8ae23aaaff0 hwc2: Only set display_width and display_height when equal to zero
+
+   * packages/apps/Dialer/
+12af567137e2bc608935a967e86e7f3ece88835c Automatic translation import
+
+   * packages/apps/Settings/
+d37d080c0611e70ccb44a917fd5462cbdca0c323 Add Maintainer for Coolpad Note 3 Lite(CP8298_I00) (#788)
+aeb32457cad04e7cc643995680a85f72329fef30 Settings:Allow to disable qs footer warnings [2/2]
+f070b90799a0360fc7d9174f5cd6ee153daad88c Automatic translation import
+
+====================
+     05-09-2017
+====================
+
+
+   * frameworks/av/
+5d49fde2a48a5c1c81312c0163b46ab39d5cb8b9 Merge pull request #3 from github-cygwin/nougat
+a93018337764487f71267088d9dc1c611b09a8e0 Merge branch 'cm-14.1' of https://github.com/LineageOS/android_frameworks_av into nougat
+
+   * frameworks/base/
+27b18312ed78dbfdd28f14bdd40f4fabfbf0bd68 Automatic translation import
+
+   * packages/apps/Dialer/
+5a8ca438d86d6bcc159d69b225fa5f3f3ba153a4 Automatic translation import
+
+   * packages/apps/Settings/
+ed3445d41df38543dece69688cf28e126f51875c Add Maintainer for Coolpad Note 3(CP8676_I02) (#787)
+b3790dade224a76c6b9c1765eed2ab1c1160e700 Automatic translation import
+
+   * packages/services/OmniJaws/
+d74e6ea1eab59a1cee5c5bf737cc641d26d82e71 Automatic translation import
+
+====================
+     05-08-2017
+====================
+
+
+   * frameworks/base/
+a40c062360f54717e7e961af3505381139c98762 Automatic translation import
+
+   * hardware/qcom/audio-caf/msm8996/
+a3818891eca3870076a69ad49aca83a64c5fb34a Merge 39da5ccbb3f7903f95fada214a90a5f8f043b54a on remote branch
+
+   * hardware/qcom/media-caf/msm8996/
+585ec9600291913ecc8dabcd0a69d39740d8a6c6 Merge 3b743576569bb08c1efa416300aee4243a198c8f on remote branch
+
+   * packages/apps/Dialer/
+cae68b7083fbc80937a34e1399fc2f72cbfbdb5e Automatic translation import
+
+   * packages/apps/OmniSwitch/
+cb8a1093c1eacb9c8c47fed40e738cf48f32786f Automatic translation import
+
+   * packages/apps/ResurrectionStats/
+45eb82528e1f31dba744d11f8c053b8218e8fe19 Automatic translation import
+
+   * packages/apps/Settings/
+bc723bd2052cdffbced5e890ab22d933939459f0 Automatic translation import
+
+   * packages/apps/Snap/
+31499ecf2c9b9e7ded2848261206b9c6bbe4f5b2 Snap: Fix crash switching from back to front cam in video mode
+
+   * packages/services/OmniJaws/
+ab40693d35315d1dcea31e8d9d5100742f95c08b Automatic translation import
+
+====================
+     05-07-2017
+====================
+
+
+   * frameworks/base/
+1f1f25f8002af2a6914fe999035d8aa956f286a5 Automatic translation import
+
+   * hardware/qcom/audio-caf/msm8937/
+99617f9329a779412bf8cf829c8caecf13bb2a0f Configs: remove audio sink buffer size property
+a9f2c0003a8a5e645a38e1bf163a995c05b2984a hal: fix kw issue in hal
+619180479643523687edb21176369d34d2b79502 hal: remove redundant logs from utils.c
+905d1d8f7febeb69e7a10ccc15684a70df854389 audiod: Skip enumerating non-ADSP sound cards
+
+   * hardware/qcom/display-caf/msm8937/
+b7a30106765923e77393a511a3b5bd847c9dfa79 display: Add color metadata definition
+26cd5045c96597abebdcaf334d85bcdc7b95b3ed display: Add color metadata definition
+eb495123ac21b4761d70799fa2b16f2d92e74631 sdm: Use ColorMetadata in SDM
+37d5aff1b8ea42b471351f5839c0362761e4e022 display: Add support for Rec.2020
+b6a2bfbd5c9773e0d4075a46c3207efb60e4f5f4 sdm: Use safe mode on External display on low end device
+9c64210964c0adbeb25e7ef434aab9ab08189ad7 HWC: Set skip to layers with Non Integral Source Crop
+93afadf42cb42ffda12e3613efd1ad05cae77520 sdm: skip null commit on command mode panels
+2428bc491202da27a79d3c20f3ae2a1b6e8583f9 libmemtrack: Fix integer overflow in kgsl function
+
+   * hardware/qcom/media-caf/msm8937/
+de0c52ed54b1efad26a9ffcc8074891984c0d682 media: libOmxSw encoders require prop headers :(
+fcd1cfd90a27aae2c7a14151d0b3c8763935aeae mm-video-v4l2: serialize FTB's for dropped frames
+057d1c7bf7ef2fcde84a55c3b7c68582129fea40 mm-video-v4l2: vidc: venc: Free buffer FDs and handles
+a5da2d3e6514474af02c47e6b3aa2b25b53e11a3 mm-video-v4l2: vdec: Support for HEVCMain10HDR10 profile
+76dd49f7790ffca1ac7a6ccc54e26d4c56983f0d mm-video-v4l2: Update max level for h264 decoder to 5.1
+46aa731c9c9484730f231b152b3226d40f261b67 mm-video-v4l2: venc: Disable Pframes incase of resolution 5k/6k
+5dc8e7ec47536ea2c1e98ec5f47eeb748a41f081 mm-video-v4l2: Reset drv_ctx o/p buffer requirements in loaded state
+0a4ad7e005a7657d4cf172e75dca710bc818a609 mm-video-v4l2: vdec: Convert maximum display luminance in cd/m2
+9e702ea45521c1246224958309e7a4177a9ea08f mm-video-v4l2: vdec:Metadata for HDR and ColorAspects
+6076eb611957efd5115f4244706a6ced6bef3212 mm-video-v4l2: vdec: Support for HDR Info extension
+
+   * packages/apps/Settings/
+372d14fbbbe7244139e31ba54ca05ba65d4cbb48 Add missing string
+b6e99b7344052ed3d09adf4cc1fa7ab096da38f0 Automatic translation import
+
+   * packages/services/OmniJaws/
+3b3ac0ca8edc73231509402c4e193146acbdd4cf Automatic translation import
+
+====================
+     05-06-2017
+====================
+
+
+   * frameworks/base/
+948bba934f72f2fd5ade0864a6788e0760524f40 base: SystemUI: use content observer for recent grid config
+73dbc18833c7059942cbcc0b8c73b42563d31bf1 base:refactor recents code to switch between recents
+b0f21223cb8b7e6fbaa9a5b4c79ec4d808f6b975 [1/2] base: featureize ro.recents.grid
+319c5f7b075933f1fda12e6f7b0b01d8cb3eaa70 Update OmniSwitch string
+9733626f54acf568789e1b3c72bf53ee2765fe9f OmniJawsClient : Move to framework
+e2192bcb6cbade80496ae03593b9e22b97c32296 SysUI : Use a different approach to Make perf profile tile invisible
+7805dad2973fe3c5cf14ec66c5378f861a1d5074 base: SystemUI: add dedicated TextView for OmniJaws error marker
+9bdaacffb3d76b5bc6aed8c751f6cbd44013058c base: SystemUI: dont show OmniJaws error that prominent
+b2245dbe64541452da8ce0d9a8d48f52bd9194e2 Automatic translation import
+
+   * hardware/samsung/
+5eca5aa5657712576864e2afeb0a8ece63448d34 power: Allow POWER_HINT_LOW_POWER hint to disable power save mode
+
+   * packages/apps/Dialer/
+4191c7ab94a08c0922bd7ce326d52a09d81f561d Automatic translation import
+
+   * packages/apps/ResurrectionOTA/
+b0b0b4a1f81de17dbd516c6cc905ffca333f5f65 ResurrectionOTA: squash all translations
+
+   * packages/apps/ResurrectionStats/
+20ea10d9a4a08e7656e571a4c35c45c6639087bd ROMStats: modify for ResurrectionRemix
+
+   * packages/apps/Settings/
+048aad9253870e60934a2c584a4268f83a21bed7 Refactor Recents Category
+d55ce18f4746d884a5337627c994e7fb55b83bd8 Settings:featurize ro.recents.grid [2/2]
+c415aa0b96d05eb756a37eb5baa8ccdf3e75d918 Mantainers: Delete WinKarbik from ido mantainer (#784)
+9d417b5c1e000bd5134e9f838d4c7df1c0c2a3d9 Automatic translation import
+
+   * packages/services/OmniJaws/
+ffe7b03b5fff16d6e4190e662d9724605b3e6845 Automatic translation import
+
+====================
+     05-05-2017
+====================
+
+
+   * frameworks/base/
+029c177129e3f4f4673efece46a5547d4f302bd6 Automatic translation import
+
+   * kernel/samsung/klte/
+46bd96f533a56c07cf6312ad6a556c7155a635ef klte: enable crypto lz4
+9263ad82a296d40eab049e58be0fafce00dbede4 msm_rmnet: Kill logspam
+7d127432eadd524e61580b6268d8657bcbe95e69 zcache: Remove WARN_ON
+ae3b8086ef56de3c1d28e855b0e48dd9ba4d6ce6 crypto: lz4,lz4hc - fix decompression
+15e68a80c42020de61a4c642680cab39739447e3 crypto: add lz4 Cryptographic API
+e9b76cecc9e25ee4178b988756ac3041f63129d6 memcg: Allow non-root users permission to control memory
+
+   * packages/apps/Dialer/
+8a5e439a902e3db894be762e5e65eaabfd69ac43 Automatic translation import
+
+   * packages/apps/OmniSwitch/
+222f925ee7f3f3d7d6b86c5a453bb13b6a2c50fd Automatic translation import
+
+   * packages/apps/Settings/
+34a8e66fc8c54706fc0f42c720eb07bb1de9e420 Change codename of K3 Note (#783)
+4d8e878e128feeeb8aeaab7a079759432237a4fd Automatic translation import
+
+   * packages/services/OmniJaws/
+d6c38bdd9852c36882b8d6ae083290db81bbab55 Automatic translation import
+
+   * system/bt/
+0ebf465dd13963f9d3c34b3cef7f7a8dd830248d Do not include the trailing NULL from the C-String in the SDP service name
+
+====================
+     05-04-2017
+====================
+
+
+   * frameworks/base/
+ed3936ee3f79a22a125143612628d1e7556d7052 Make Scrolling for TaskManager list a lot easier
+ebb01f07094f1b9c66524a9210a9ad6d19a63ef9 Automatic translation import
+03a9a2ed77ef22134c6436b014f19c2f200b4aa9 Base:Dont do anything on weather errors for header & keyguard
+
+   * kernel/samsung/klte/
+c8501dcb7613b0f5fd72d0f6cd2de10697e76f27 msm: crypto: set CLR_CNTXT bit for crypto operations
+94774b0a7640e4ca57062d1a0b4abe5b3442f410 tcp: do not lock listener to process SYN packets
+fbc0ffa793f7155ae46af8473b13d349c103191c xfrm_user: validate XFRM_MSG_NEWAE incoming ESN size harder
+c8a6bbe3f1e0d1ab8adc8a68dc4b8fb085a7847a xfrm_user: validate XFRM_MSG_NEWAE XFRMA_REPLAY_ESN_VAL replay_window
+83d4e46db70781ea139a1f5b430e6ecbfab7813c KEYS: Change the name of the dead type to ".dead" to prevent user access
+9210757d66ffbff0df1f47c2a1ed3a0d78250be3 platform: msm: spmi: Fix possible race condition in debugfs
+cf4d3b50f2a3ef0c9c4a8241fb9dcde4bf67c8e3 input: touchscreen: gt9xx: fix memory corruption in Goodix driver
+31e6fec61db5a6284c660885d060eacb9041e8b8 soc: qcom: scm: add check to avoid buffer overflow
+8dd10f718411834525696edae854b610bf86d05e qseecom: check buffer size when loading firmware images
+510bd73b3c3a115596b939d2aa2cf9ac98092044 ASoC: soc: prevent risk of buffer overflow
+f4428fe911391d70fe250e96bc51054efb372f27 ASoC: msm: qdsp6v2: return error when copy from userspace fails
+fe4964711c8e160449cda078f340fc3d498bb1e3 ASoC: msm: qdsp6v2: Add range checking in msm_dai_q6_set_channel_map
+f7861b1a77f2dcb0ab0721bd4d72f06536536110 ASoC: msm: q6dspv2: use correct variable type to store ION buff size
+d30c5dc292f4e388408c4285ec6a6a69feb63d5c trace: resolve stack corruption due to string copy
+d5356fd53d307b3725dbcb0e1bfcc7dd5fb60cc7 ASoC: msm: qdsp6v2: Fix out-of-bounds access in put functions
+8f9d23d821cb0d7c3d12271f9538f6927a1cb91b crypto: msm: check integer overflow on total data len in qcedev.c
+
+   * packages/apps/Dialer/
+1f733f253fad20d9ce0dc517244a20b2685f06eb Automatic translation import
+
+   * packages/apps/Jelly/
+20067749ec3305028afd711369aa585e9a7e5bbd Jelly: no need of using srcCompat for imageviews
+
+   * packages/apps/OmniSwitch/
+3530c16a70a45f20ef921c921eb1b971552c8b6e Automatic translation import
+
+   * packages/apps/Settings/
+008a015c1cc6454f4a1b4d7fec25e1a5a0686a77 Update resurrection_device_maintainers_strings.xml (#782)
+da7778ec0e842bfd9400d6b9d503942218ebb95f Automatic translation import
+33f769f7a4b787f302f4a420b3957ece31e91726 Add device_maintainers_fragment for device thea (#780)
+3e9cabcc2e28ff705ce67f50d135dadd54128384 Add Device Maintainer for motorola moto g2 LTE (#781)
+
+   * packages/services/OmniJaws/
+a626ff017402523d83bb96ff6dd339bc034a3bbf Automatic translation import
+
+====================
+     05-03-2017
+====================
+
+
+   * bootable/recovery/
+616bf9aae45fa091cee116ee5565460a90849e33 recovery: Fix event system
+
+   * frameworks/av/
+faa8b85e05147e9b0419abd835b23e8928e4cf93 seccomp: Fix policy for ffmpeg
+
+   * frameworks/base/
+e67fe6535450625439ad896ec197f81b4852ff38 KeyguardStatusBar: Add missing TouchAnimation for hiding statusbar
+640db943193e1c760ef45089d9df699f4f658119 Base: Make sure keyguard and header handle weather errors as well
+d9c5ba7c620ff3a3d3db4054ff43ba7133d45388 base: SystemUI: dont hide navbar for screenshot crop
+9fa52a54508a03b1add0fd5cab2d3dc5f643964a base: SystemUI: qs: location tile quickbar press is just toggle
+3db79794f1f90b2ed4449d60d0d6a1d4ef3ddd74 base: SystemUI: dont hide weather forcast data on errors
+4c605724d86187f3b93f43330bd8eadf9507fb95 base: SystemUI: use new OmniJaws error broadcasts
+ad493bf657ca0342f4b359eda13501d20dd2fa55 Fix keyguard is black background while screen turning off/on quickly
+41d90baeccdee0a6772dde130fd08a748d2bdc91 Reboot/Recovery QS Tile: Use vectorized icons
+5cb48ac57769418138e03ae9feafd7e3c026e813 Automatic translation import
+
+   * hardware/qcom/media-caf/apq8084/
+b49f2c040a6b26a2169fecdb179182833b7476bd Fix duplicated OMX.qcom.audio.decoder.aac entry
+
+   * kernel/samsung/klte/
+4c89c2a1b144376f7c781c36f20f2cb68ba0c97c msm: crypto: fix issues on digest buf and copy_from_user in qcedev.c
+4801f77d8087b170da10738089e506a9300112d8 input: misc: fix heap overflow issue in hbtp_input.c
+2f2728363957e0b3b1956902704712d0afed38f6 ANDROID: ion: check for kref overflow
+9ab9207f33ac499459620c65846b82e0d5274fe5 net: ipc_router: Register services only on client port
+4d87171232fda940a3686bae3ff93997387848f4 fbdev: color map copying bounds checking
+ea1d9645905402e92a5cadb51d0e16a398daa843 Revert "fbcmap: prevent memory overflow"
+a4231fdb00a5b6e5da7e04f47fa42e9f62f00762 ASoC: wcd9320: Fix out of bounds for mad input value
+7a7d5ec2c0d53242cd27935f97f02de4d247a4f0 ASoC: soc: msm: initialize buffer to prevent kernel data leakage
+5aac38ab26c824a10b38e817e9bf5b4a15c1b37c fs/proc/array.c: make safe access to group_leader
+1ba055223e2f49638ff8ec1b5f07935486fe6b2f ALSA: info: Check for integer overflow in snd_info_entry_write()
+bf36e1b3d832ffc6fafad5af3048c6f8365adfb6 slim-msm: Synchronize SSR callbacks
+69e0b08401c6c6a7101750c30e4e6d39f268bceb crypto: msm: check length before copying to buf in _debug_stats_read
+6ceb09e25f8bc8057ddc6611e611d4c96861aaf9 msm: ipa: fix ioctl input param validation
+2d9e7418fc0b1f801d9cec1fbaecc2b6598dd5f3 msm-camera: Addressing possible overflow conditions
+
+   * packages/apps/Jelly/
+9be745ecb2e1949c6f3abc159535ffd37889f0eb Jelly: fix InflateException on builds compiled with aosp build system
+b01a7b83cae6ee4486fb2a8400adf2b2a5a88651 Jelly: handle rotation and multiwindow changes
+
+   * packages/apps/Settings/
+a2cd85e36e3d9bcf9ffe7bb289c35b3502ad0dbb update a string
+02f94fcccc7b4fb9a41fc056ad9dde7f7ef7dc43 Automatic translation import
+
+   * packages/services/OmniJaws/
+aa857b5da937b8bb9c02ec6e714b8e1d9866fa7b OmniJaws: come here all you hidden bugs into the bright light
+a1699298a820b102e9d7c83ea8d83ac50441f284 OmniJaws: weather widget fixes
+a9b58637503a9a2338a629ab961a6db8d356f6e7 OmniJaws: add weather widget
+d106dcdb982015c822daafdbb22c42225883afef OmniJaws: add error broadcast
+7d52cc9642050359587e6a7a95003df1b512dfd7 Automatic translation import
+
+====================
+     05-02-2017
+====================
+
+
+   * android/
+7c6e872a1c6e404a57fbe18af54f65f4a21315a8 manifests: 7.1.2_r2-> r8
+16e50229c3a77846a4981d41373113bb65932b4c android: nuke browser, welcome jelly
+8ead0d4329841d7706b21766584c7a59b7311783 Manifest : Stop syncing blank intel sensor repo.
+1aaf24e3f9dd71e87a0d4e27dd5001c53ee94e2d manifest: Track our external/libchrome
+
+   * bionic/
+22d6b5b572dc43211970825a4d8f9cd6b4ad081e libc: ARM: Add 32-bit Kryo memcpy
+45a39871e459daa02965bd448b97949f709fd77d libc: use Cortex-A7/A53 memset on Kryo
+ba97f82ba8fdd7ccbd618223c174817b475c69ea Add kryo support.
+
+   * bootable/recovery/
+8011e6652bb337b7dd7d6c24200bb2130894004e recovery: Fix UI freezing
+
+   * build/
+fab5d1d51d2419a968f30a71b59fcccb9ac7bd77 Merge tag 'android-7.1.2_r8' into nougat
+e6c0264e5761ace355eb054cf1d5a750b6b8d419 Revert "We want Browser"
+
+   * external/boringssl/
+8f156dfbd139cff1c4e79dcd69c0e724fffa6255 Merge tag 'android-7.1.2_r8' into cm-14.1
+
+   * frameworks/av/
+24697a3281bd3de6328913424a4a7daf5b7530e4 Merge branch 'cm-14.1' of https://github.com/LineageOS/android_frameworks_av into nougat
+16dcaaaca5c9b82db3c4722d2c5ce0acb3d759be Merge tag 'android-7.1.2_r8' into cm-14.1
+
+   * frameworks/base/
+0501270c3b3eecfc17f8ccf2f69b280f056b182b Merge tag 'android-7.1.2_r8' into nougat
+0cb47fafc25896692da835b9f13c2f006f9de872 Automatic translation import
+e8d78b45e62a50811d539fc09b46d2e2ce2d4284 fix anr when concurrent request provider
+d0d7aee3365f4c8eb314244a407c9bed3ea69de5 Ensure that the decor view is attached to window.
+119e0d3298cb88a3b7497878cc8f14b3f82ee552 Bad token of activity when do the launch work at the app process side.
+05558351189e35f4548ab0df950281b96f6c3297 Query geo description in worker thread to prevent ANR
+a87340f99fe65dadf2bc1914b5705e8970f17041 remove duplicated incorrectly code in ProcessRecord
+3f190335d146152250538faf3b29a4fce6f92080 fix foreground process will be mistakenly killed when it uses content provider.
+1e33d08a4393ccaf0154c5d527b6f7c08793abd2 Restart persistent process if start timeout.
+88fd7c1467d6a350c0bfef912e2a4249cbec6e30 fix system_server crash issue caused by fd leak.
+2f5069ebe90a9a9801ecdffc7e680415f2a47b56 Compass qs tile: Fix icon in edit mode
+
+   * frameworks/native/
+c544fcc05f26e20df049bfc0e6da3bf0af9d0425 Merge branch 'cm-14.1' of https://github.com/LineageOS/android_frameworks_native into nougat
+b8fb318de6d9c747ba1ac36e17e7b98c5e23cc0e Merge tag 'android-7.1.2_r8' into cm-14.1
+
+   * kernel/samsung/klte/
+cd6d355810510ae42c9aa9bc1b17c9fc1cde2d3e msm: mdss: Correct the format specifiers in sscanf function
+727ee21fb5649760d2fca66ce8938b99876f870f qcrypto: protect potential integer overflow.
+3cac2133c4360bbf383037a301d587bc0817cb2a BACKPORT: posix_acl: Clear SGID bit when setting file permissions
+5e5c55c9f47e0a804648e5c57fd1e45a016ec1e3 mm: migrate dirty page without clear_page_dirty_for_io etc
+43a38d8237d088169fe18d263e788ce3b8a9088e perf: Tighten (and fix) the grouping condition
+c9b845e54333a2fec12a98a7355aa6674a721dba ALSA: pcm : Call kill_fasync() in stream lock
+c67b6c9aca4c94dfe68b16a3b7fdd363d8d9b091 Revert "ALSA: pcm : Call kill_fasync() in stream lock"
+666dde7c3ce25a4f003975a8593f2a4befc64133 KEYS: Disallow keyrings beginning with '.' to be joined as session keyrings
+
+   * packages/apps/DUI/
+aba99d598b7e4db5d1f97656925a529ed061cfc2 Fix Fling swipe up gesture being hard to trigger
+
+   * packages/apps/Dialer/
+b239b707a84e8b7da618a75cbdd751a445fdbfd7 Dialer: InCallUI: Enable Sustained Performance Mode We should make sure that thermals are stable during active calls, so we should enable Sustained Performance Mode for the InCallActivity.
+
+   * packages/apps/Messaging/
+9ea833a3caa2ef224bdd8a70163af02608a99452 Merge branch 'cm-14.1' of https://github.com/LineageOS/android_packages_apps_messaging into nougat
+
+   * packages/apps/Settings/
+2c2376a4fb9862ff2eb612d7dad1d961ec548505 Change username of Github from PixlernBlitz to PainKiller3 (#776)
+38863c06f1b4685581d019bf68c1d113679fa54b Fix typo in resurrection_device_maintainers.xml (#775)
+e6d2f898da0bc2b01d268eea3676813128530e04 Merge tag 'android-7.1.2_r8' into nougat
+8bac202694098a877625e5eb4468448fea39bdcb Automatic translation import
+f69dd8c6e6cc51879eda5e89fa261a29354be8c7 Revert "Settings: Lost cached BT devices in found devices list"
+226f681b7bc9ea4296e78567eb4239681f762eea Settings[Wifi]: fix the input invalid length for WEP encryption.
+20f7649f83719a6c42f3c22d8136ea1c84d1092b Settings: Fix internal storage summary for non-emulated storage
+a8ca4b42d038506532ac184eb2f4a284f57d09f0 Add v521 device and maintainer  (#774)
+9283d7e25e057fea6aed9e503728593b6d488334 Add Galaxy Grand Prime As Official. (#773)
+
+   * packages/apps/Trebuchet/
+c69c73627ab107abf398549f0cdbbc2e5553e87e Trebuchet: Add Jelly to hotseat
+
+   * system/bt/
+85d4e422039f7506387631a65a3de394a19a872c Merge tag 'android-7.1.2_r8' into cm-14.1
+
+   * system/core/
+259efc16272b76c08e105df85192ed1d58c50512 Merge branch 'cm-14.1' of https://github.com/LineageOS/android_system_core into nougat
+d7cbf4b4c4348c3c50853c4b935b52fb9c883cf1 Merge tag 'android-7.1.2_r8' into cm-14.1
+
+   * vendor/cm/
+137c340ce3fe081d2592e9b8133648047508a065 cm: nuke browser, welcome jelly
+b43a798029015d509182ee3283398f97ea30b740 cm: Remove obsolete and unused overlays and configs
+
+====================
+     05-01-2017
+====================
+
+
+   * frameworks/base/
+1c72ba57c9eec220e2e2d8823e2d523183e32e3f Automatic translation import
+
+   * packages/apps/Jelly/
+2f41ee6e1f0f4d1f60f72441ad3721a87310535a Jelly: expose toolbar elevation
+74270cc8035d01994ece7fd3a7f62df986f67583 Jelly: history: swipe to delete
+244fab96662fa5d1ac3a77a12367d2c4d63898b2 Jelly: use custom dialog for home page selection
+
+   * packages/apps/OmniSwitch/
+61ce8339a7f9dbd0642e9adb0be8821959e0fe07 Automatic translation import
+
+   * packages/apps/Settings/
+d78311b812d2c37d58d44ea8223f8591f87b98b6 Automatic translation import
+
+   * packages/services/OmniJaws/
+b7da8af255ee77496f08c9456e70c77a3fc6b0fd Automatic translation import
+
+====================
+     04-30-2017
+====================
+
+
+   * external/gello-build/
+d62ccd49004e6d1b8d7cfe4f638aebfe48d07da2 gello-build: update for m58
+
+   * packages/apps/Jelly/
+17755b35622ba579a496712363f81bada1a41223 Jelly: add option to clear cookies
+
+   * packages/apps/Settings/
+a7c15e032f35befbf7a14edb7e27dd8581a9a326 Automatic translation import
+
+   * system/extras/su/
+73444408883de540015bb7b456db92998515eb9d su: Don't start daemon for adb only mode
+
+====================
+     04-29-2017
+====================
+
+
+   * bootable/recovery/
+5d701cc801a257a9d9b7062b413fd8783c269496 recovery: Complete    * pathmap usage
+
+   * build/
+1856c8bcbc9246dee5aa0d88a4b73e7c36fff7c5 Revert "build: releasetools: ota: Add support for 32-64 bit upgrades"
+37969284d5ad963e606fb8c7c264d78ba8dfa0ed build: fix verity generation
+
+   * frameworks/base/
+42c3f5845efc890b027c294cc7e74ed6cfc2b4b0 am: Handle unchecked activity starts for protected components (2)
+8fa52cdca67c9c46d70599d1982e2ae34d6d185c Automatic translation import
+
+   * packages/apps/Dialer/
+8c8f1395fc8ba2df56ecbf0b8a4d24fea107fcbf InCallUI: Don't force enable the prox sensor for incoming calls
+
+   * packages/apps/Jelly/
+13c1311ea4cad4c82c3d5d0c85c4ba35b0282f16 Jelly: Fix typo
+
+   * packages/apps/Settings/
+4a73b1be6582b1ee8d3053f82446e5793bd3cd3d Added Device Maintainer For K3 Note (K50a40) (#771)
+51f85b0d065a1ee349c10698509634c79dcc00e5 Automatic translation import
+
+   * vendor/samsung/
+fcc01f6ae98565d28228fbf435a45928a941fe17 Update libOMX.Exynos.AVC.Encoder from T805ZHU1CQB1
+cd41fee27b0bbe28b79e970211f7caa3af8e6881 Update libsecnativefeature from T805ZHU1CQB1
+396cf2739cc779859d73b93952990176524c767f Update libexynoscamera from T805ZHU1CQB1
+
+====================
+     04-28-2017
+====================
+
+
+   * bootable/recovery/
+39ce74180f4510b040b2387b3b9cb80f3ed54a2d Revert "recovery:updater: Changes to support 32->64 bit upgrades"
+
+   * device/qcom/common/
+0dc36735f2df081a6af9d1ddf5867390e48ccc45 recovery: Use    * pathmap for recovery
+
+   * hardware/libhardware_legacy/
+ec33ac38aedabf66b832bb1c869b8490f2c0121e wifi: add firmware loader support for the non-LKM case
+
+   * hardware/qcom/fm/
+d17952eb6c1303530d0f52d10875b33f19b8cf4a Automatic translation import
+
+   * hardware/samsung/
+8920be7d43985aa35f92fcb77445b4ace901b011 Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver/
+b7d1a8b5382ba92bfed6c889602a963b7606d83a Automatic translation import
+
+   * packages/apps/FlipFlap/
+a2a33576deedb7f3240f279bc34b05669f652ce2 Automatic translation import
+
+   * packages/apps/Gallery2/
+ed6763f137043a3ff2547feb5e73627fd5cac676 Automatic translation import
+
+   * packages/apps/Recorder/
+9b9c5c92810fc08d4b9dc4b8a3753033828d2c5d Automatic translation import
+
+   * packages/apps/Settings/
+57fbef231175d830e34b001b862adc24701533b5 Settings: Add 25ms and 50ms animation duration cause smallest value (100ms) to long for some effects (#770)
+800c80e03b5ef3d237a49f37ab1f010609421844 Fix SB ticker icon and text default color
+
+   * packages/apps/SetupWizard/
+8518aa375c14950c841603d7461ea3ccf56d6fe6 Automatic translation import
+
+   * packages/apps/Snap/
+1d0e136c0b781548bda4235d0e15b422876678ff Automatic translation import
+
+   * packages/apps/ThemeInterfacer/
+40e3809cd9bdbaa52878cc6226d1b86574067a30 JobService: Expose configuration shim refresh delay
+
+   * packages/resources/devicesettings/
+55faa1d099f071a5989da85d138a5c6c0adef2d3 Automatic translation import
+
+   * system/core/
+3efb4eca76a40bc07dc9b2527742d97c3001e016 fs_mgr: Use    * pathmap for recovery
+783cb54eece36e0c63db78e29664f61ec24bb9ef healthd: Use    * pathmap for recovery
+
+   * system/extras/
+f30ae7fd7508bed7974045d37b70030e24c7d4e6 Use    * pathmap for recovery
+
+   * system/sepolicy/
+f8942cc340cf10907d13ea589592a6bfdb5262aa sepolicy: add file and domain trans to interfacer
+
+   * vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider/
+5de40fe35de6495525a42132aa2aef44b340b802 Automatic translation import
+
+   * vendor/samsung/
+85dca1ffdf6c9aeaa2e9c6d759937998c3189617 Include libfloatingfeature in build as well
+f409334376d007d84f4505692f917dc433eb2a57 gts28ltexx: forgot lib/libfloatingfeature.so
+a866a713cb25cb5dca86c69859bae7ab253c4c7e gts28wifi: forgot lib/libfloatingfeature.so
+5bf445aa14fa53162c984c0f9c50ccabfde7112d gts210wifi: forgot lib/libfloatingfeature.so
+269061f2430546d61ea20649f0601b0cd711baa1 gts28wifi: N blobs (T710XXU2DQCL)
+1776ec9ea519e281c1f8229a16d054848ed12320 gts28ltexx: N blobs (T715XXU2CQCL)`
+a74fea3954d1cb7ea93241a517b9950008f50f64 Wifi: For 2.4 GHz GB is needed for channels > 11
+a1a43ad94bd25d7a26d29f46d09c19f5dc33335d gts210wifi: N blobs (T810XXU2DQCL)
+
+====================
+     04-27-2017
+====================
+
+
+   * frameworks/base/
+4a2eb612d164567e0042ed482a6e355d6e3f8111 Automatic translation import
+
+   * hardware/samsung/
+a58b7d9f982a8698885c412a6300e2a182c47a5f AdvancedDisplay - Rename default scenario
+
+   * packages/apps/Settings/
+7774d2b4ca2638a99eb4c7af010545f917a80e77 Automatic translation import
+
+   * packages/apps/ThemeInterfacer/
+3f3c33b7d706c6e53d5e7c1242d975ffd8b36dc3 Add a looper to the locale change handler
+
+   * vendor/samsung/
+009d708dcb2bbfdb62bc77a95b234f92ff97e0ab ha3g" Add call for exynos5420-common
+
+====================
+     04-26-2017
+====================
+
+
+   * frameworks/base/
+bf7e2ac6b9d85e9b089da9e8782cb71b4c04e8ef Automatic translation import
+
+   * hardware/qcom/audio-caf/msm8996/
+6bace74de5374d4a78ab645868a508678e3651a0 msm8996: audio: Add l/r mic swapping when using stereo mics
+
+   * packages/apps/Settings/
+c50d9a6163f267656297cac7eeb68dc50040797f added zuk Z2 plus (#768)
+a642167f329ae3ffc85aefbdb1746683367d5108 Automatic translation import
+
+   * packages/apps/ThemeInterfacer/
+9936dc3d5a564ba9d2cf82e96fe81119a3987890 README: Recommend Interfacer be put in the services folder
+
+   * packages/apps/Trebuchet/
+29b0b0a2906e77622868f8ab069632a763d11864 Trebuchet: lineage launcher icon
+c9e76546ff03ac87ffb6694d67ed2ed171964196 Trebuchet: Do not crash if normalized string for sorting is empty
+
+   * packages/services/OmniJaws/
+aaaf9d0dea5fcf9b9ed8c54f1283ea12477da5aa Automatic translation import
+
+   * vendor/samsung/
+a2079bf49ef17618197abbc3a7709bf5138a2f1f gts210ltexx: Update from T815XXU2CQCL
+3859daad027fdde2c16e75b49e67f60d420c09f9 gts2: Rollback Mali EGL blob to R7P0
+8668b337902ec46233a98f76767095ab3481d083 gts2: Update from T815XXU2CQCL
+75652ecac9e2e7d6f033b7837e5c19d7d74e7e6f Import ha3g
+131d3f673b31960c0dcb4fe8ba888eb2d4c12c61 hlte-common: Add additional wifi calibration files
+
+====================
+     04-25-2017
+====================
+
+
+   * device/samsung/klte-common/
+0940aac26a46e9a314f5ef5d84d2a942fa0b6204 klte-common: Restore ownership/perms of bcm2079x dev node
+
+   * frameworks/base/
+b250de637b9c436b0e1df176892c038a59501ed5 Fix animation duration for custom animations
+89aed6964924600607994c7743c28eee41b6ad74 Automatic translation import
+4863e2520d48696994bd93b827b28d9778fe1600 Fix DUI slippery flag logic and IllegalArgumentException [2/2]
+1650a12b5b5c79632f19d7dba4e08b1e6b1936b0 Need to resize new created stack to fullscreen after docked stack tasks has moved into it.
+cda2cbe471977aec8bf698c414e0587ab5343c9e Fix race condition when writing UidState of appops.
+000c5b89025399b62c1510c2e6a0fa10650b9b3e Fix PacketKeepalive.stop() crash
+deef9431fa7252225999bac6e0f443c786f8510f ActivityStack index OOB cause device restart
+07a5433bbbcb9ee2e4da6c1040f3da0bc493968f Remove force weather update bits
+48f1315eb5f060ed0f36824e9c299c357feaf9bf Redundant waiting time of keyguard unlocking after reboot
+7911e226488789d907018d3fe714da8a23269fa2 Make sure that the device name is not null before returning it
+8c3fb3ba6fd359c62589766b0ca240825581c57a Fix a null pointer exception in FragmentManager
+aa5f6e69909652eb311d16ac858cdd236dfa00bd Keyguard: Move CAF strings to cm_strings.xml.
+405c66701f7cd4e4b8fc4719646e96b05b9e91c5 Automatic translation import
+94a3bb6da2edd498497ee507b69cb23d1e0a8b69 fingerprint: notify client when cancelling succeeded
+2e7a8386df164a2c22fc8363a62fe5b50292a3d4 Revert "base: services: add config_fingerprintRemoveClientOnCancel"
+
+   * frameworks/opt/telephony/
+bc4322812e463268235f5bfb884883a533e44580 Create cdma dummy apns.
+
+   * hardware/samsung/
+9432ff3385e4c4b2b1cb06835e51a9ba7da65268 mkbootimg: add exynos subdir to possible_dtb_dirs
+
+   * packages/apps/DUI/
+8f840c52b9ae10b9d2a008f2dc1e3fc35e75a736 Fix DUI slippery flag logic and IllegalArgumentException [1/2]
+
+   * packages/apps/Dialer/
+5249b9ed304fb7ff7bd7b6353210bcf138d8029a Automatic translation import
+
+   * packages/apps/Gallery2/
+1f0ec6ea1a8004113280bbca99fd6f2c7e8380c9 Revert "Gallery2: hide navigation bar when we turn off lights"
+
+   * packages/apps/Settings/
+52d68903457c572e93db06e74c6d50c565526ec8 Settings: Custom animation duration settings [2/2]
+34684704a991239239fe46bcd37833874d12f6a3 Automatic translation import
+4382afda13e3a0a35c2b350bd7a3decf3f70ed1c Screenshot Delay:Make it faster optionally
+
+   * packages/apps/Trebuchet/
+99649a575c74b7a76308cf955502a0bf33954a35 Don't show market links if market app is protected
+1cc5cef42654a6e5545e16ae4c8b2f858d701bf7 Trebuchet: use normalized strings for sorting into bucket
+
+   * packages/services/OmniJaws/
+b983f09d4f753368320c1ffd5df6ca549388c926 Automatic translation import
+772c1b86748ee4f1b3191e8eb1ef1937261b9409 OmniJaws: remove separation between force and not force update
+7193cd876176109c185b20586de527c37d55380c OmniJaws: add fetch weather data retry loop
+
+   * vendor/samsung/
+d78b68a87913fdc4c1b1e294b87eab7e41d1da6f msm8976-common: Update blobs from T813XXU2BQD1
+
+====================
+     04-24-2017
+====================
+
+
+   * frameworks/base/
+483008b9f00f151e3eed71a3fde370f325b96b8e Automatic translation import
+
+   * hardware/samsung/
+5e4fbe091dac9a8f07567f511f5ef50bef28addc power: Sanity check touchscreen path
+
+   * packages/apps/Dialer/
+fac35909fa7fd8644fafd5ff4e1e4856edb7427d Automatic translation import
+
+   * packages/apps/Settings/
+358259499570949f21a800d419d385e8c1b7191e Automatic translation import
+
+   * packages/apps/ThemeInterfacer/
+97eceaf8e26fdfbe3931466bf27ee8281d9084c8 JobService: Transition to the Binder Interprocess Communication System
+
+   * packages/services/OmniJaws/
+598974e4df62a14fc9cce13e29e8be0fccb436e1 Automatic translation import
 
 ====================
      04-23-2017
@@ -11,6 +879,10 @@ Below are some of the recent commits captured in the latest build (RR-N-v5.8.3-2
 
    * frameworks/base/
 6c1934d052f8e2425690ac2b47a87386e16b8e38 Automatic translation import
+
+   * hardware/qcom/audio-caf/msm8996/
+fc1c0d9f6deaa9cc9eaffeab5ff99921e38f4d4c Add special case for stereo camcorder
+97baada37686e7e704be595c1d5c5e5b9eaf37f2 hal: Featureize APE/VORBIS/WMA offload support
 
    * packages/apps/OmniSwitch/
 e6a68a9df5c5a1b59f5eef91269bdce7bde830af Automatic translation import
@@ -23,9 +895,9 @@ e27dd961fab1784ffe319b0c9cc42e20a226bd13 Add Galaxy S7/edge maintainer (#761)
 342da5afcd893aa546a1518751686d7126f123e2 Automatic translation import
 
    * vendor/samsung/
+d596053a5c6e0356615e92456329fac26d39d0fc hlte-common: Add additional BT firmware files
 21699d6928fc8ee6953c42d2ec82633ae71cd080 hlte-common: Regenerate makefiles to add hltetmo to guard
 e7fc8be25bb7f2b312fbe0ff4d8ff7873310adf7 chagallwifi: Copy bcmdhd firmware to another location
-0f1ac3dcde9913454f107a1a8a9943ab394ed208 d2: Cleanup blobs
 
 ====================
      04-22-2017
